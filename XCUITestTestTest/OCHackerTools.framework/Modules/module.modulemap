@@ -1,0 +1,6 @@
+framework module OCHackerTools {
+  umbrella header "OCHackerTools.h"
+
+  export *
+  module * { export * }
+}
